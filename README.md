@@ -1,12 +1,15 @@
 # FunFangFoundNews
+
 ❖​ Topic: 
       We want to make a search engine that can specialize​ in search the keyword in each kind of news, which is called FunFangFoundNews. 
 When users input the keywords, the system will go through a series of rating, which is measured by few topics we will discussed later. After that, offering the best search consequences that satisfied users desire. 
 
 ❖​ Motivation 
+
       With the ever-changing technology, mass media has becoming more diverse. The news media on the internet is varied and each has its own unique insights. In order to satisfy the audience’s preference and orientation, we want to develop a system to help users quickly find what they want to see. 
       
 ❖​ Feature 
+
 1.Use google news of Taiwan and American as our search engine 
  To ensure that all the results are news, we use google news as our search engine. However, google news is differentiated by region, we not only use the Taiwan google news but American google news to make our results more international.  
 2.Including time factor 
